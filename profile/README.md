@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! Welcome to ayaka-notes!
+
+- This groups include all of my note in SJTU-SE, which has been published to website by Docusaurus
+- All contents are published using the Creative Commons Attribute 4.0 License. Please refer to: https://creativecommons.org/licenses/by/4.0/legalcode
 
 <!--
 
