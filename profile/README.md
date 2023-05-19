@@ -4,7 +4,7 @@
 - 🌈 This group include all of my notes in SJTU-SE, all of which has been published by Docusaurus.
 - 🍿 All contents are published using the [Creative Commons Attribute 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode), Don't use it for commercial use!
 - 🧙 I am considering designing my own note template. If you like, you can also give it a try!
-- 👩‍💻 if you are having trouble with visiting my note-website, please use domain end with `ayaka.space`
+- 👩‍💻 if you are having trouble with visiting my note-website, please use domain ending with `ayaka.space`
 - 📫 Good luck to you for exams~ 
 
 <!--
