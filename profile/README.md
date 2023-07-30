@@ -1,6 +1,6 @@
 ## Hi! Welcome to my notes!
 
-> Special thanks to [Feishu Miaoji/Minutes](https://www.feishu.cn/product/minutes). The writing of the notes is heavily based on speech recognition conversion. With the strong support of Feishu Miaoji, we have successfully recognized and converted nearly 5000+minutes of recordings of ICS courses, software tests, and other courses. Due to storage reasons, these live audio subtitles have not been saved, although there are some regrets. If they are added in the future, it will be decided whether to make them public or not
+> Special thanks to [Feishu Miaoji/Minutes](https://www.feishu.cn/product/minutes). The writing of these notes is heavily based on speech recognition conversion. With the strong support of Feishu Miaoji, we have successfully recognized and converted nearly 5000+minutes of recordings of ICS courses, software tests, and other courses. Due to storage reasons, these live audio subtitles have not been saved, although there are some regrets. If they are added in the future, it will be decided whether to make them public or not
 
 
 - 👀 Organizaion owner: [@Musicminon](https://github.com/Musicminion)
