@@ -2,7 +2,7 @@
 
 > 知识，与你分享！
 
-![](./banner.png)
+![](https://github.com/ayaka-notes/.github/blob/816e88b02b604c372e3a66604ad632996e6a4c65/profile/banner.png)
 
 
 
