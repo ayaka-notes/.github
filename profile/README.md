@@ -1,5 +1,11 @@
 ## Hi! Welcome to my notes!
 
+> 知识，与你分享！
+
+![](./banner.png)
+
+
+
 > Special thanks to [Feishu Miaoji/Minutes](https://www.feishu.cn/product/minutes). The writing of these notes is heavily based on speech recognition conversion. With the strong support of Feishu Miaoji, we have successfully recognized and converted nearly 5000+minutes of recordings of ICS courses, software tests, and other courses. Due to storage reasons, these live audio subtitles have not been saved, although there are some regrets. If they are added in the future, it will be decided whether to make them public or not
 
 
@@ -9,10 +15,6 @@
 - 🧙 I am considering designing my own note template. If you like, you can also give it a try!
 - 👩‍💻 if you are having trouble with visiting my note-website, please use domain ending with `ayaka.space`
 - 📫 Good luck to you for exams~ 
-
-知识，与你分享~
-<img width="1133" alt="截屏2023-08-31 19 30 00" src="https://github.com/ayaka-notes/.github/assets/84625273/76ec63f1-b1de-465c-8eab-19e1ad1e3034">
-
 
 
 
