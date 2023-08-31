@@ -10,6 +10,11 @@
 - 👩‍💻 if you are having trouble with visiting my note-website, please use domain ending with `ayaka.space`
 - 📫 Good luck to you for exams~ 
 
+知识，与你分享~
+<img width="1133" alt="截屏2023-08-31 19 30 00" src="https://github.com/ayaka-notes/.github/assets/84625273/76ec63f1-b1de-465c-8eab-19e1ad1e3034">
+
+
+
 
 <!--
 
